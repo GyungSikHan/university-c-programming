@@ -1,0 +1,63 @@
+# Visual Studio local settings and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+ipch/
+
+# Visual C++ 6 workspace caches and build logs
+*.ncb
+*.opt
+*.plg
+*.aps
+
+# Build output directories
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+x64/
+x86/
+Win32/
+ARM/
+ARM64/
+build/
+out/
+
+# C/C++ compiler and linker outputs
+*.obj
+*.o
+*.pch
+*.gch
+*.pdb
+*.idb
+*.ilk
+*.ipdb
+*.iobj
+*.exe
+*.dll
+*.lib
+*.exp
+*.a
+*.so
+*.dylib
+*.tlog
+*.lastbuildstate
+*.res
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+CMakeUserPresets.json
+
+# Runtime output of the MyLog exercise
+/2017-1-c-advanced/MyLog/log.txt
+
+# Keep source and shared project definitions:
+# .c .cpp .h .sln .vcxproj .vcxproj.filters .dsp .dsw
